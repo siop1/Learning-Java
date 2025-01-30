@@ -1,0 +1,67 @@
+In Java, classes use PascalConvention and functions use camelCase naming convention
+Java-Learning/
+│
+├── 01_Basics/
+│   ├── HelloWorld.java
+│   ├── Variables.java
+│   ├── DataTypes.java
+│   └── Operators.java
+│
+├── 02_ControlFlow/
+│   ├── IfElse.java
+│   ├── Switch.java
+│   ├── Loops/
+│   │   ├── ForLoop.java
+│   │   ├── WhileLoop.java
+│   │   └── DoWhileLoop.java
+│   └── BreakContinue.java
+│
+├── 03_OOP/
+│   ├── ClassesAndObjects.java
+│   ├── Inheritance/
+│   │   ├── SuperClass.java
+│   │   └── SubClass.java
+│   ├── Polymorphism/
+│   │   ├── MethodOverloading.java
+│   │   └── MethodOverriding.java
+│   ├── Abstraction/
+│   │   └── AbstractClassExample.java
+│   └── Encapsulation/
+│       └── GetterSetterExample.java
+│
+├── 04_Exceptions/
+│   ├── TryCatch.java
+│   ├── ThrowThrows.java
+│   └── CustomException.java
+│
+├── 05_CollectionFramework/
+│   ├── Lists/
+│   │   ├── ArrayListExample.java
+│   │   └── LinkedListExample.java
+│   ├── Sets/
+│   │   └── HashSetExample.java
+│   ├── Maps/
+│   │   └── HashMapExample.java
+│   └── Iterators/
+│       └── IteratorExample.java
+│
+├── 06_Java8_Features/
+│   ├── Lambdas/
+│   │   └── LambdaExample.java
+│   ├── Streams/
+│   │   └── StreamExample.java
+│   └── Optional/
+│       └── OptionalExample.java
+│
+├── 07_FileHandling/
+│   ├── FileReading.java
+│   ├── FileWriting.java
+│   └── FileOperations.java
+│
+└── 08_AdvancedTopics/
+    ├── Multithreading/
+    │   └── ThreadExample.java
+    ├── Networking/
+    │   └── SocketProgramming.java
+    └── Database/
+        └── JDBCExample.java
