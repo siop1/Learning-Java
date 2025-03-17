@@ -9,7 +9,7 @@ public class PersonMain {
 
    // Setter
    public void setName(String newName) {
-     this.name = newName;
+     this.name = newName; // this keyword refers to current object
    }
 }
 
